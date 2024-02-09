@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJS, SpringBoot React**
 
-- 💬 Ask me about **SpringBoot**
+- 💬 Ask me about **SpringBoot, Java**
 
 - 📫 How to reach me **mwongera.mukami22@students.dkut.ac.ke**
 
