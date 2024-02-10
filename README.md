@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bree-codes&show_icons=true&locale=en" alt="bree-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bree-codes&" alt="bree-codes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bree-codes&" alt="bree-codes" />  </p>
