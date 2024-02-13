@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently  working on [SpringBoot](https://github.com/Bree-codes/BursaryApplicationProject)
 
-- 🌱 I’m currently learning **NodeJS, SpringBoot React**
+- 🌱 I’m currently learning **SpringBoot React**
 
 - 💬 Ask me about **SpringBoot, Java**
 
