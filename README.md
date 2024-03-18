@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Bree  </h1>
+<h1 align="center"> Hi 👋 I'm Bree  </h1>
 <h3 align="center">A passionate Backend Bug Hunter </h3>
 
 <p align="left"> <img
