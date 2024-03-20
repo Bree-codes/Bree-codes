@@ -8,7 +8,7 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently  working on **SpringSecurity**.
+- 🔭 I’m currently  working on **SpringSecurity**
 
 - 🌱 I’m currently learning **SpringBoot and React**
 
