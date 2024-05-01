@@ -9,7 +9,7 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
 
 - 🔭 I’m currently  working on **SpringSecurity**
 
-- 🌱 I’m currently learning **SpringBoot and React**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **SpringBoot, Java**
 
