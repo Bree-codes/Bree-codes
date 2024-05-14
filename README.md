@@ -49,8 +49,6 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
     </a> 
 </p>
 
-
-
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bree-codes&show_icons=true&locale=en&layout=compact" alt="bree-codes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bree-codes&show_icons=true&locale=en" alt="bree-codes" /></p>
