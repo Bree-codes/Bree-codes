@@ -51,14 +51,9 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
 
 </p>
 
-<p>
-    <img style="background-color: black; padding: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bree-codes&show_icons=true&locale=en&layout=compact" alt="bree-codes" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Junaidmugloo&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Junaidmugloo&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaidmugloo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=vue-dark&hide_border=true" height="150" style="width: 100vw;display:block;background-color: #273849;" alt="languages graph"  />
+</div>
 
-<p>
-    <img style="background-color: black; padding: 10px;" align="center" src="https://github-readme-stats.vercel.app/api?username=bree-codes&show_icons=true&locale=en" alt="bree-codes" />
-</p>
-
-<p>
-    <img style="background-color: black; padding: 10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bree-codes&" alt="bree-codes" />
-</p>
