@@ -52,11 +52,3 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
 
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bree-codes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bree-codes&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bree-codes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=vue-dark&hide_border=true" height="150" style="width: 100vw;display:block;background-color: #273849;" alt="languages graph"  />
-</div>
-
-
-
