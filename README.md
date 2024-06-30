@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=750&color=FFC0CB&lines=Hi+%F0%9F%91%8B+My+name+is+Bree;+I'm+a+passionate+Backend+bug+hunter..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=750&color=FFD700&lines=Hi+%F0%9F%91%8B+My+name+is+Bree;+I'm+a+passionate+Backend+bug+hunter..)](https://git.io/typing-svg)
 
 
 <p align="left"> <img
@@ -52,10 +52,11 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
 
 </p>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bree-codes&show_icons=true&locale=en&layout=compact" alt="bree-codes" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bree-codes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Bree-codes&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bree-codes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=vue-dark&hide_border=true" height="150" style="width: 100vw;display:block;background-color: #273849;" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bree-codes&show_icons=true&locale=en" alt="bree-codes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bree-codes&" alt="bree-codes" />  </p>
 
 
