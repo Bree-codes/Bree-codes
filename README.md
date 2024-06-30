@@ -51,8 +51,21 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
 
 </p>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bree-codes&show_icons=true&locale=en&layout=compact" alt="bree-codes" /></p>
+<p>
+    <div style="background-color: black; padding: 10px;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bree-codes&show_icons=true&locale=en&layout=compact" alt="bree-codes" />
+    </div>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bree-codes&show_icons=true&locale=en" alt="bree-codes" /></p>
+<p>
+    <div style="background-color: black; padding: 10px;">
+        &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bree-codes&show_icons=true&locale=en" alt="bree-codes" />
+    </div>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bree-codes&" alt="bree-codes" />  </p>
+<p>
+    <div style="background-color: black; padding: 10px;">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bree-codes&" alt="bree-codes" />
+    </div>
+</p>
+
