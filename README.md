@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋 I'm Bree  </h1>
-<h3 align="center">A passionate Backend Bug Hunter </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=580&lines=Hi+%F0%9F%91%8B!+My+name+is+Bree;+I'm+a+passionate+Backend+bug+hunter.)](https://git.io/typing-svg)
+
 <p align="left"> <img
 src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" /></p>
 
