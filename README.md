@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=750&color=800080&lines=Hi+%F0%9F%91%8B+My+name+is+Bree;+I'm+a+passionate+Backend+bug+hunter..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=750&color=000000&lines=Hi+%F0%9F%91%8B+My+name+is+Bree;+I'm+a+passionate+Backend+bug+hunter..)](https://git.io/typing-svg)
 
 
 <p align="left"> <img
