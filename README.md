@@ -54,13 +54,13 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
 
 <div align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bree-codes&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="Bree-codes" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bree-codes&show_icons=true&locale=en&layout=compact&theme=aura&hide_border=true" alt="Bree-codes" height="150" />
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bree-codes&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="Bree-codes" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bree-codes&show_icons=true&locale=en&theme=aura&hide_border=true" alt="Bree-codes" height="150" />
   
   <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=Bree-codes&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" alt="Bree-codes" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Bree-codes&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" alt="Bree-codes" height="150" />
 </div>
 
 
