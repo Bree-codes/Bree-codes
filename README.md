@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFA500&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=Hi+%F0%9F%91%8B+My+name+is+Bree;+I'm+a+Spring+Boot+bug+hunter!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=Hi+%F0%9F%91%8B+My+name+is+Bree;+I'm+a+Spring+Boot+bug+hunter!)](https://git.io/typing-svg)
 
 
 <p align="left"> <img
