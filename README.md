@@ -49,11 +49,7 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> 
 </a>
     
-### 🛠️ Technologies & Tools
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Technologies
 ![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&)
 
 
