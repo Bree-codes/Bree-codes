@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=Hi+%F0%9F%91%8B+My+name+is+Bree;+I'm+a+Spring+Boot+bug+hunter!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF5733&background=000000&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Bree!;Spring+Boot+Bug+Hunter+%F0%9F%90%9E;Passionate+Coder+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="left"> <img
 src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" /></p>
@@ -48,8 +47,10 @@ src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> 
 </a>
+
     
 ### 🛠️ Technologies
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&)
 
 
