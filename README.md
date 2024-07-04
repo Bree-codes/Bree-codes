@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently  working on **Microservices**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Microservices,Kafka,Docker**
 
 - 💬 Ask me about **SpringBoot, Java**
 
