@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=00FFFF&width=700&height=120&lines=Hi+%F0%9F%91%8B+I'm+Bree!;Spring+Boot+Bug+Hunter+%F0%9F%90%9E;Passionate+Coder+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Java+Developer+%E2%98%95%EF%B8%8F;Continuous+Learner+%F0%9F%93%9A)](https://git.io/typing-svg)
-<p align="left" style="margin-top: -30px; margin-bottom: -10px;">
+<p align="left" style="margin-top: -100px; margin-bottom: -10px;">
     <img src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" />
 </p>
 
