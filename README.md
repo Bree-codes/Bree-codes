@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h2 align="left">My GitHub Trophies <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/trophy_1f3c6.png" alt="trophy" width="30"/></h2>
+    <h2 align="left">My GitHub Trophies <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gold_trophy_icon.png/600px-Gold_trophy_icon.png" alt="trophy" width="30"/></h2>
     <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=bree-codes&theme=radical" alt="bree-codes" />
