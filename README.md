@@ -5,13 +5,12 @@
     <img src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" />
 </p>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>My GitHub Trophies</title>
+    <title>My GitHub Trophies</title>
 </head>
 <body>
     <h1 align="left">My GitHub Trophies <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/trophy_1f3c6.png" alt="trophy" width="30"/></h1>
@@ -22,6 +21,7 @@
     </p>
 </body>
 </html>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
