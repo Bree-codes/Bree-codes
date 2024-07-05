@@ -1,15 +1,18 @@
 <h2 align="center" style="margin-bottom: 0;">Hi there 👋, I'm Bree!</h2>
 <h3 align="center" style="margin-top: 0;">Spring Boot Bug Hunter 🐞| Passionate Coder 💻 | Tech Enthusiast 🚀 | Java Developer ☕ | Microservices Explorer 🛰️ | Continuous Learner 📚</h3>
-
 <p align="left" style="margin-top: -100px; margin-bottom: -10px;">
     <img src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" />
 </p>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <style>
+        .trophy-title img {
+            vertical-align: middle;
+        }
+    </style>
   
 </head>
 <body>
