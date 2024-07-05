@@ -8,12 +8,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <style>
-        .trophy-title img {
-            vertical-align: middle;
-        }
-    </style>
-  
 </head>
 <body>
     <h2 align="left">My GitHub Trophies <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/trophy_1f3c6.png" alt="trophy" width="30"/></h2>
