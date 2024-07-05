@@ -1,25 +1,17 @@
 <h2 align="center" style="margin-bottom: 0;">Hi there 👋, I'm Bree!</h2>
 <h3 align="center" style="margin-top: 0;">Spring Boot Bug Hunter 🐞| Passionate Coder 💻 | Tech Enthusiast 🚀 | Java Developer ☕ | Microservices Explorer 🛰️ | Continuous Learner 📚</h3>
+
 <p align="left" style="margin-top: -100px; margin-bottom: -10px;">
     <img src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" />
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h2 align="left">My GitHub Trophies <img src="https://em-content.zobj.net/source/microsoft-teams/337/trophy_1f3c6.png" alt="trophy" width="30"/></h2>
+
+    
+## 🏆 GitHub Trophies
     <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=bree-codes&theme=radical" alt="bree-codes" />
         </a>
     </p>
-</body>
-</html>
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
