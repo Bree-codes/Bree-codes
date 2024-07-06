@@ -57,8 +57,9 @@
 
     
 <h3 align="left">🛠️ Technologies </h3>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&)
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" alt="Microservices"/>
+
 
 </p>
 
