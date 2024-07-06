@@ -60,7 +60,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&)
 
-
 </p>
 
 <div align="center">
