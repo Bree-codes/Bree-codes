@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mwongera.mukami22@students.dkut.ac.ke**
 
-<h3 align="left">Languages and  Tools:</h3>
+<h3 align="left">Languages and  Tools</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -56,7 +56,7 @@
 </a>
 
     
-### 🛠️ Technologies
+<h3 align="left">🛠️ Technologies </h3>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&)
 
