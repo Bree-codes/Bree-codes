@@ -57,8 +57,10 @@
 
     
 <h3 align="left">🛠️ Technologies </h3>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" alt="Microservices"/>
+<span>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" alt="Microservices"/>
+</span>
 
 
 </p>
