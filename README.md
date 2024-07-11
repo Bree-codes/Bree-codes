@@ -74,5 +74,3 @@
   <!-- GitHub Streak Card -->
   <img src="https://streak-stats.demolab.com?user=Bree-codes&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" alt="Bree-codes" height="150" />
 </div>
-
-
