@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" alt="Microservices"/>
 </span>
 
-
 </p>
 
 <div align="center">
