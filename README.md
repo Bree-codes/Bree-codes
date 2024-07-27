@@ -59,6 +59,12 @@
 <span>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" alt="Postman"/>  
 </span>
 
 </p>
