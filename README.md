@@ -13,7 +13,7 @@
 </p>
 
 
-- 🔭 I’m currently  working on **Microservices**
+- 🔭 I’m currently  working on **Microservices and Algos**
 
 - 🌱 I’m currently learning **Microservices,Kafka,Docker**
 
