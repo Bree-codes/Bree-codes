@@ -12,13 +12,13 @@
         </a>
 </p>
 
-🔭 **Exploring New Frontiers:** Currently diving deep into **Data Structures** and **working on Microservices**.
+🔭 **Exploring New Frontiers:**  Currently diving deep into **Data Structures** and **working on Microservices**.
 
-🌱 **On a Learning Journey:** I’m eager to delve into **Microservices, Kafka, and Docker soon**.
+🌱 **On a Learning Journey:**  I’m eager to delve into **Microservices, Kafka, and Docker soon**.
 
-💬 **Let’s Talk Code:** Reach out if you want to chat about **Spring Boot or Java**. I’m always excited to discuss and share insights!
+💬 **Let’s Talk Code:**  Reach out if you want to chat about **Spring Boot or Java**. I’m always excited to discuss and share insights!
 
-📫 **Connect with Me:** Feel free to drop a message at **mwongera.mukami22@students.dkut.ac.ke**.
+📫 **Connect with Me:**  Feel free to drop a message at **mwongera.mukami22@students.dkut.ac.ke**.
 
 <h3 align="left">Languages and  Tools</h3>
 <p align="left"> 
