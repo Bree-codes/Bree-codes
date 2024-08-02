@@ -1,4 +1,4 @@
-<h2 align="center" style="margin-bottom: 0;">Hi there 👋, I'm Bree!</h2>
+<h2 align="center" style="margin-bottom: 0;">Hi there 👋 I'm Bree!</h2>
 <h3 align="center" style="margin-top: 0;">Spring Boot Bug Hunter 🐞| Passionate Coder 💻 | Tech Enthusiast 🚀 | Java Developer ☕ | Continuous Learner 📚</h3>
 
 <p align="left" style="margin-top: -100px; margin-bottom: -10px;">
