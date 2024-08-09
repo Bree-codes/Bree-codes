@@ -12,7 +12,7 @@
         </a>
 </p>
 
-🔭 **Exploring New Frontiers:**  Currently diving deep into **Data Structures** and **working on Microservices**.
+🔭 **Exploring New Frontiers:**  Currently diving deep into **Data Structures** and **Microservices**.
 
 🌱 **On a Learning Journey:**  I’m eager to delve into **Microservices, Kafka, and Docker** soon.
 
