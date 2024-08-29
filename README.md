@@ -12,9 +12,10 @@
         </a>
 </p>
 
-🔭 **Exploring New Frontiers:**  Currently diving deep into **Data Structures** and **Microservices**.
+🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Data Structures**.
 
-🌱 **On a Learning Journey:**  I’m eager to delve into **Microservices, Kafka, and Docker** soon.
+🌱 **On a Learning Journey:**  I'm advancing my journey in **Machine Learning**, embracing new challenges and pushing the boundaries of what’s possible.
+Always curious, always learning!
 
 📫 **Connect with Me:**  Feel free to drop a message at **mwongera.mukami22@students.dkut.ac.ke**.
 
