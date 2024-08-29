@@ -14,9 +14,9 @@
 
 🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Data Structures**.
 
-🌱 **On a Learning Journey:**  I'm advancing my journey in **Machine Learning**,embracing new challenges and pushing the boundaries of what’s possible.
+🌱 **On a Learning Journey:**  I'm advancing my journey in **Machine Learning**, embracing new challenges and pushing the boundaries of what’s possible.
 
-✨ **Motto:** Always curious,always learning!
+✨ **Motto:** Always curious, always learning!
 
 📫 **Connect with Me:**  Feel free to drop a message at **mwongera.mukami22@students.dkut.ac.ke**.
 
