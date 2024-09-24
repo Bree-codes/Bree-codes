@@ -1,4 +1,4 @@
-<h2 align="center" style="margin-bottom: 0;">Hi there 👋 I'm Bree!</h2>
+<h2 align="center" style="margin-bottom: 0;">Hallo 👋,ich bin Bree!</h2>
 <h3 align="center" style="margin-top: 0;"> Machine Learning Explorer 🤖 | Spring Boot Bug Hunter 🐞| Tech Enthusiast 🚀 | Continuous Learner 📚</h3>
 
 <p align="left" style="margin-top: -100px; margin-bottom: -10px;">
