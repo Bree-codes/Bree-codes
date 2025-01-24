@@ -12,9 +12,9 @@
         </a>
 </p>
 
-🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Data Structures**.
+🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Frontend Development-Reactjs**.
 
-🌱 **On a Learning Journey:**  I'm advancing my journey in **Machine Learning**, embracing new challenges and pushing the boundaries of what’s possible.
+🌱 **On a Learning Journey:**  I'm advancing my journey in **Frontend Development**, embracing new challenges and pushing the boundaries of what’s possible.
 
 ✨ **Motto:** Always curious, always learning!
 
