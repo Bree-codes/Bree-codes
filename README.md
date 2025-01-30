@@ -1,5 +1,5 @@
 <h2 align="center" style="margin-bottom: 0;">Hallo 👋 ich bin Bree!</h2>
-<h3 align="center" style="margin-top: 0;"> Machine Learning Explorer 🤖 | Web Developer | Tech Enthusiast 🚀 | Continuous Learner 📚</h3>
+<h3 align="center" style="margin-top: 0;"> Machine Learning Explorer 🤖 | Web Developer 👩‍💻 | Tech Enthusiast 🚀 | Continuous Learner 📚</h3>
 
 <p align="left" style="margin-top: -100px; margin-bottom: -10px;">
     <img src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" />
