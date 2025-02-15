@@ -69,6 +69,7 @@
 </p>
 
 <div align="center">
+    
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bree-codes&show_icons=true&locale=en&layout=compact&theme=aura&hide_border=true" alt="Bree-codes" height="150" />
   
