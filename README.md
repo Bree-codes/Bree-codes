@@ -22,6 +22,7 @@
     
 <h4 align="left">🛠️ Technologies </h4>
 <span>
+  <img src="https://img.shields.io/badge/Cybersecurity-2F4F4F?style=for-the-badge" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" alt="Microservices"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" alt="Java"/>
