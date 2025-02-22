@@ -20,7 +20,7 @@
 
 📫 **Connect with Me:**  Feel free to drop a message at **mwongera.mukami22@students.dkut.ac.ke**.
     
-<h3 align="left">🛠️ Technologies </h3>
+<h4 align="left">🛠️ Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge" alt="Microservices"/>
