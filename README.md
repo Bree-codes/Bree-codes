@@ -14,8 +14,6 @@
 
 🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Frontend Development-Reactjs**.
 
-🌱 **On a Learning Journey:**  I'm exploring the world of **Cybersecurity** with **TryHackMe** as part of my Communications Authority attachment, embracing new challenges and pushing the boundaries of what’s possible.
-
 ✨ **Motto:** Always curious, always learning!
 
 📫 **Connect with Me:**  Feel free to drop a message at **mwongera.mukami22@students.dkut.ac.ke**.
