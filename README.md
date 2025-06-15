@@ -12,7 +12,7 @@
         </a>
 </p>
 
-🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Frontend Development-Reactjs+TypeScript**.
+🔭 **🧠 Learning & Building:**  Currently diving deep into **Machine Learning** and **Frontend Development-Reactjs+TypeScript**.
 
 ✨ **Motto:** Always curious, always learning!
 
