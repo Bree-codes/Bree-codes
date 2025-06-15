@@ -12,9 +12,11 @@
         </a>
 </p>
 
-🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Frontend Development-Reactjs**.
+🔭 **Exploring New Frontiers:**  Currently diving deep into **Machine Learning** and **Frontend Development-Reactjs+TypeScript**.
 
 ✨ **Motto:** Always curious, always learning!
+
+🎨 **Design Enthusiast:** I enjoy crafting clean, user-friendly interfaces, turning ideas into elegant and functional experiences.
 
 📫 **Connect with Me:**  Feel free to drop a message at **mwongera.mukami22@students.dkut.ac.ke**.
     
