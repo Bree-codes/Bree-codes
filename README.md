@@ -18,7 +18,7 @@ Machine Learning Intern 🤖 | Data Science & Analytics Intern 📊 | ML Enginee
 Building real world solutions through my **Machine Learning** and **Data Science internships**, applying concepts like data analysis, model building and deriving actionable insights.
 
 **Focus Areas:**  
-Machine Learning • Data Analysis • Data Visualization • Real-world Projects
+Machine Learning • Data Analysis • Data Visualization • Projects
 
 **My Journey:**  
 Transitioning from Spring Boot Backend Development to Machine Learning, leveraging AI to transform data into intelligent solutions and combining software engineering foundations with real world problem solving.
@@ -38,7 +38,7 @@ Feel free to reach out at **brendamukami04@gmail.com**
 
 <h4 align="left">🛠️ Technologies </h4>
 
-<b>📊 Data Science & Machine Learning</b><br>
+<b>Data Science & Machine Learning</b><br>
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
@@ -48,27 +48,29 @@ Feel free to reach out at **brendamukami04@gmail.com**
   <img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge" />
 </span>
 
-<b>📈 Data Analysis & Visualization</b><br>
+<b>Data Analysis & Visualization</b><br>
 <span>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter" />
-</span>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" />
+  </span>
 
-<b>🗄️ Databases</b><br>
+<b>Databases</b><br>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
 </span>
 
-<b>⚙️ Tools & Workflow</b><br>
+<b>Tools & Workflow</b><br>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
 </span>
 
-<b>🧩 Backend Foundation </b><br>
+<b>Backend Foundation </b><br>
 <span>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" />
