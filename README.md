@@ -14,24 +14,24 @@ Machine Learning Intern 🤖 | Data Science & Analytics Intern 📊 | ML Enginee
     </a>
 </p>
 
-🧠 **Currently Working On:**  
+**Currently Working On:**  
 Building real-world solutions through my **Machine Learning** and **Data Science internships**, applying concepts like data analysis, model building, and deriving actionable insights.
 
-📊 **Focus Areas:**  
+**Focus Areas:**  
 Machine Learning • Data Analysis • Data Visualization • Real-world Projects
 
-🚀 **My Journey:**  
+**My Journey:**  
 Transitioning from Spring Boot Backend Development to Machine Learning, leveraging AI to transform data into intelligent solutions and combining software engineering foundations with real world problem solving.
 
-💡 **What I Bring:**  
+**What I Bring:**  
 - Turning data into meaningful insights  
 - Building and experimenting with ML models  
 - Creating clean and intuitive data visualizations  
 - Strong problem-solving and continuous learning mindset  
 
-✨ **Motto:** Always curious, always learning!
+**Motto:** Always curious, always learning!
 
-📫 **Connect with Me:**  
+**Connect with Me:**  
 Feel free to reach out at **brendamukami04@gmail.com**
 
 ---
@@ -56,8 +56,6 @@ Feel free to reach out at **brendamukami04@gmail.com**
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter" />
 </span>
-
-<br><br>
 
 <b>🗄️ Databases</b><br>
 <span>
