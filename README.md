@@ -14,24 +14,24 @@ Machine Learning Intern 🤖 | Data Science & Analytics Intern 📊 | ML Enginee
     </a>
 </p>
 
-**Currently Working On:**  
+🚧 **Currently Working On:**  
 Building real world solutions through my **Machine Learning** and **Data Science internships**, applying concepts like data analysis, model building and deriving actionable insights.
 
-**Focus Areas:**  
-Machine Learning • Data Analysis • Data Visualization • Projects
+🎯 **Focus Areas:**  
+Machine Learning  • Data Analysis  • Data Visualization • Projects 
 
-**My Journey:**  
+🌱 **My Journey:**  
 Transitioning from Spring Boot Backend Development to Machine Learning, leveraging AI to transform data into intelligent solutions and combining software engineering foundations with real world problem solving.
 
-**What I’m Building & Exploring:**  
-- Turning data into meaningful insights  
+💡 **What I’m Building & Exploring:**  
+- Turning data into meaningful insights   
 - Building and experimenting with ML models  
-- Creating clean and intuitive data visualizations  
+- Creating clean and intuitive data visualizations   
 - Strong problem solving and continuous learning mindset  
 
-**Motto:** Always curious, always learning!
+✨ **Motto:** Always curious, always learning!
 
-**Connect with Me:**  
+📫 **Connect with Me:**  
 Feel free to reach out at **brendamukami04@gmail.com**
 
 ---
