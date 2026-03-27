@@ -15,7 +15,7 @@ Machine Learning Intern 🤖 | Data Science & Analytics Intern 📊 | ML Enginee
 </p>
 
 **Currently Working On:**  
-Building real-world solutions through my **Machine Learning** and **Data Science internships**, applying concepts like data analysis, model building, and deriving actionable insights.
+Building real world solutions through my **Machine Learning** and **Data Science internships**, applying concepts like data analysis, model building and deriving actionable insights.
 
 **Focus Areas:**  
 Machine Learning • Data Analysis • Data Visualization • Real-world Projects
@@ -23,11 +23,11 @@ Machine Learning • Data Analysis • Data Visualization • Real-world Project
 **My Journey:**  
 Transitioning from Spring Boot Backend Development to Machine Learning, leveraging AI to transform data into intelligent solutions and combining software engineering foundations with real world problem solving.
 
-**What I Bring:**  
+**What I’m Building & Exploring:**  
 - Turning data into meaningful insights  
 - Building and experimenting with ML models  
 - Creating clean and intuitive data visualizations  
-- Strong problem-solving and continuous learning mindset  
+- Strong problem solving and continuous learning mindset  
 
 **Motto:** Always curious, always learning!
 
@@ -48,8 +48,6 @@ Feel free to reach out at **brendamukami04@gmail.com**
   <img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge" />
 </span>
 
-<br><br>
-
 <b>📈 Data Analysis & Visualization</b><br>
 <span>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
@@ -63,16 +61,12 @@ Feel free to reach out at **brendamukami04@gmail.com**
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
 </span>
 
-<br><br>
-
 <b>⚙️ Tools & Workflow</b><br>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
 </span>
-
-<br><br>
 
 <b>🧩 Backend Foundation </b><br>
 <span>
