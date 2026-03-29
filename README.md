@@ -2,7 +2,6 @@
 <h3 align="center" style="margin-top: 0;">
 Machine Learning Intern 🤖 | Data Science & Analytics Intern 📊 | ML Engineer 🚀 | Data Analyst 📊 
 </h3>
-
 <p align="left" style="margin-top: -100px; margin-bottom: -10px;">
     <img src="https://komarev.com/ghpvc/?username=bree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="bree-codes" />
 </p>
